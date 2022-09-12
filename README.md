@@ -1,1 +1,3 @@
-# VanRys_T_HW1
+# Team Awesome
+
+All about our awesome dev team.
